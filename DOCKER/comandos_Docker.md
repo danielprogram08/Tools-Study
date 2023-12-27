@@ -25,5 +25,12 @@
 
 https://docs.docker.com/guides/walkthroughs/run-a-container/
 
+-------------------------
+### **Comandos Docker:**
+
+_docker run -_ **(Roda o container)**
+_docker ps -_ **(Lista os containers)**
+_docker ps -a -_ **(Lista os containers parados)**
+
 
 
