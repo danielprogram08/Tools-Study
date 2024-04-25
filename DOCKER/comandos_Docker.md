@@ -17,7 +17,7 @@
 
 **Veja os comandos mais usados no docker clicando aqui:**</br>
 
-[![Comandos-Docker]([<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />)](https://www.youtube.com/watch?v=_su5XaOdEKg&list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4&index=2](https://blog.rocketseat.com.br/comandos-docker-mais-utilizados/)) 
+[![Comandos-Docker](https://www.youtube.com/watch?v=_su5XaOdEKg&list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4&index=2](https://blog.rocketseat.com.br/comandos-docker-mais-utilizados/)) 
 
 _docker run -_ **(Roda o container)**
 _docker ps -_ **(Lista os containers)**
