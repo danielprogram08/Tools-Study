@@ -17,7 +17,7 @@
 
 **Veja os comandos mais usados no docker clicando aqui:**</br>
 
-<a>(https://www.youtube.com/watch?v=_su5XaOdEKg&list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4&index=2](https://blog.rocketseat.com.br/comandos-docker-mais-utilizados/))</a> 
+<a>https://blog.rocketseat.com.br/comandos-docker-mais-utilizados/</a> 
 
 _docker run -_ **(Roda o container)**
 _docker ps -_ **(Lista os containers)**
