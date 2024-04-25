@@ -15,18 +15,9 @@
 
 ## **_Analisando os comandos através da tag "--help" é possível efetuar comandos para gerenciamento de imagens, containers e etc._**
 
-**Veja mais na Aula 02 de docker clicando aqui:**</br>
+**Veja os comandos mais usados no docker clicando aqui:**</br>
 
-[![Aula-02](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=_su5XaOdEKg&list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4&index=2) 
-
--------------------------
-
-### **Criando o primeiro Container Docker:**
-
-https://docs.docker.com/guides/walkthroughs/run-a-container/
-
--------------------------
-### **Comandos Docker:**
+[![Comandos-Docker]([<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />)](https://www.youtube.com/watch?v=_su5XaOdEKg&list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4&index=2](https://blog.rocketseat.com.br/comandos-docker-mais-utilizados/)) 
 
 _docker run -_ **(Roda o container)**
 _docker ps -_ **(Lista os containers)**
