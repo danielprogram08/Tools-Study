@@ -1,0 +1,16 @@
+git pull
+git push
+git commit -m
+git checkout
+git diff
+git stash
+git reset HEAD
+git clone
+git init
+git config --global --list
+git branch -D (branch)
+git merge (branch)
+git remote add
+git remote -v
+rm -rf (Caso o diretório não esteja vazio)
+git checkout -b 
