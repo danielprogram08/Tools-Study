@@ -3,7 +3,8 @@ git push
 git commit -m
 git checkout
 git diff
-git stash
+git stash (Salva uma cópia do arquivo e volta uma etapa anterior)
+git stash pop (retorna de onde parou)
 git reset HEAD
 git clone
 git init
