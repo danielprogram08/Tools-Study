@@ -2,7 +2,7 @@ git pull
 git push
 git commit -m
 git checkout
-git diff
+git diff (verifica a diferença entre repositórios ou branches)
 git stash (Salva uma cópia do arquivo e volta uma etapa anterior)
 git stash pop (retorna de onde parou)
 git reset HEAD
